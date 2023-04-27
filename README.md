@@ -4,7 +4,7 @@ This is a user script that automatically redirects you to old.reddit.com when yo
 
 ## Why use this script?
 
-Some users may prefer the old reddit design for various reasons, such as simplicity, familiarity, nostalgia, or performance. This script saves you the hassle of manually changing the URL.
+Some users may prefer the old reddit design for various reasons, such as simplicity, familiarity, or performance. This script saves you the hassle of manually changing the URL.
 
 ## How to use this script?
 
