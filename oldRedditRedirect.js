@@ -2,7 +2,7 @@
 // @name Old Reddit Redirect
 // @version      0.1
 // @description  redirects you to old.reddit.com
-// @author       github.com/originates
+// @author       github.com/richkmls
 // @match *://*.reddit.com/*
 // @run-at document-start
 // @grant        none
