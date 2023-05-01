@@ -14,4 +14,4 @@ Some users may prefer the old reddit design for various reasons, such as simplic
 
 ## Feedback and support
 
-If you have any issues, suggestions, or questions about this script, please feel free to [open an issue](https://github.com/originates/old-reddit-redirect/issues) or [contact me](https://github.com/originates).
+If you have any issues, suggestions, or questions about this script, please feel free to [open an issue](https://github.com/richkmls/old-reddit-redirect/issues) or [contact me](https://github.com/richkmls).
