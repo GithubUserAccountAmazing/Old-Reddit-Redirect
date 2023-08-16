@@ -4,6 +4,7 @@
 // @description  redirects you to old.reddit.com
 // @author       github.com/richkmls
 // @match *://*.reddit.com/*
+// @exclude /^https?://[a-z]{2}\.reddit\.com/*
 // @run-at document-start
 // @grant        none
 // ==/UserScript==
