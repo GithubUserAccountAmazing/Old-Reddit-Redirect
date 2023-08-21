@@ -5,6 +5,8 @@
 // @author       github.com/richkmls
 // @match *://*.reddit.com/*
 // @exclude /^https?://[a-z]{2}\.reddit\.com/*
+// @exclude *://*.reddit.com/gallery/*
+// @exclude *://*.reddit.com/media*
 // @run-at document-start
 // @grant        none
 // ==/UserScript==
