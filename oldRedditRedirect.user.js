@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name Old Reddit Redirect
-// @version      0.1
+// @version      0.1.1
 // @description  redirects you to old.reddit.com
 // @author       github.com/richkmls
 // @match *://*.reddit.com/*
 // @exclude /^https?://[a-z]{2}\.reddit\.com/*
+// @exclude *out.reddit.com/*
 // @exclude *://*.reddit.com/gallery/*
 // @exclude *://*.reddit.com/media*
 // @run-at document-start
